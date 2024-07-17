@@ -16,35 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamalfawaer&show_icons=true&locale=en" alt="hamzamalfawaer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalfawaer&" alt="hamzamalfawaer" /></p>
-
-
-
-<h1 align="center">Hi 👋, I'm Necim Durmaz</h1>
-
-<img align="right" alt="Coding" width="400" src="https://r.resimlink.com/zEwtrOiukb1C.jpg?v=1028243aed6c69f47512cc6669bda262">
- 
- 
-- 🧑‍💼 Software Developer at **Talya Bilisim**
-
-- 👨‍🎓 I'm studying at **Manisa Celal Bayar Üniversitesi** / **Software Engineering**
-
-- 👨🏻‍💻 I’m currently learning **Angular**  and **Next.js** 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/necimdurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necimdurmaz-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/necimdurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necimdurmaz" height="30" width="40" /></a>
-
-</p>
-
-    
-<h3 align="left">My Skill Set:</h3>
-
-
-
-<p style="width:100%"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalfawaer&&theme=tokyonight" alt="rishavchanda" /></p>
- <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamzamalfawaer&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
- <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzamalfawaer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="necimdurmaz" /></p>
-
- <img style="width:100%" src="./snake.svg" />
