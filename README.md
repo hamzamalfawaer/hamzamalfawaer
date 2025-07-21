@@ -16,3 +16,65 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamalfawaer&show_icons=true&locale=en" alt="hamzamalfawaer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalfawaer&" alt="hamzamalfawaer" /></p>
+
+
+
+
+
+<!-- Profile README Template -->
+<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h3 align="center">🚀 Warehouse Optimization | ⚙️ Software Engineering | 💡 Systems Design</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzamalfawaer&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamalfawaer" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **Centralized Rate-Limiting Middleware for Distributed Systems**
+- 🌱 I’m diving deep into **Next.js**, **RxJS**, and **Kubernetes Sidecar Patterns**
+- 💬 Ask me about **warehouse optimization, scalable backend systems, or architectural design**
+- 📫 How to reach me: **hamzamalfawaer[at]email.com**
+- 🧰 Tools I use often: `Node.js`, `TypeScript`, `Docker`, `PostgreSQL`, `Redis`, `gRPC`, `NATS`, `Next.js`, `RxJS`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzamalfawaer&show_icons=true&theme=tokyonight&hide_title=true" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=hamzamalfawaer&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 📂 Projects
+
+Here are some of the things I’ve worked on recently:
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**RateLimiter Service**](https://github.com/hamzamalfawaer/rate-limiter) | A centralized rate-limiter with weight-based logic and custom middleware. | Node.js, Express, Redis, K8s |
+| [**Reactive Pipeline IDE**](https://github.com/hamzamalfawaer/reactive-pipeline-ide) | Visual interface for composing reactive workflows using RxJS. | Next.js, RxJS, Tailwind |
+| [**Warehouse Audit Tool**](https://github.com/hamzamalfawaer/warehouse-audit) | CLI + web-based tool to assess warehouse performance. | Python, Flask, D3.js |
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,redis,docker,kubernetes,postgres,nextjs,react,tailwind,github,linux" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/hamzamalfawaer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin" /></a>
+  <a href="mailto:hamzamalfawaer@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
