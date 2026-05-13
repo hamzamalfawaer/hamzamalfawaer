@@ -11,7 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=hamzamalfawaer&label=Profile+Views&color=7ee8a2&style=flat)](https://github.com/hamzamalfawaer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzamalfawaer)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hamzamalfa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamzamalfawaer@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamzamalfawaer@gmail.com)
 
 </div>
 
@@ -78,8 +78,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzamalfawaer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamzamalfawaer)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzamalfawaer@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamzamalfa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzamalfawaer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzamalfawaer)
 
 </div>
@@ -87,5 +87,5 @@
 ---
 
 <div align="center">
-  <sub>built with ❤️ by Hamza</sub>
+  <sub>built with ❤️ by Claude.ai</sub>
 </div>
