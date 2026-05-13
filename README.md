@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hamzamalfawaer&label=Profile+Views&color=7ee8a2&style=flat)](https://github.com/hamzamalfawaer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzamalfawaer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hamzamalfawaer)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hamzamalfa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamzamalfawaer@email.com)
 
 </div>
@@ -21,11 +21,11 @@
 
 | | |
 |:--|:--|
-| 🔭 **Building** | Centralized Rate-Limiting Middleware for Distributed Systems |
-| 🌱 **Diving into** | Next.js · RxJS · Kubernetes Sidecar Patterns |
-| 💬 **Ask me about** | Warehouse optimization, scalable backends, architectural design |
-| 📫 **Reach me** | hamzamalfawaer@email.com |
-| 📍 **Based in** | Istanbul 🇹🇷 |
+| 🔭 **Building** | NodeJS Microservices · Flutter Mobile Apps |
+| 🌱 **Diving into** | Flutter · NodeJS · RxJS · ElasticSearch · MSSQL · Kafka |
+| 💬 **Ask me about** | scalable backends, architectural design |
+| 📫 **Reach me** | hamzamalfawaer@gmail.com |
+| 📍 **Based in** | Antalya 🇹🇷 |
 
 ---
 
